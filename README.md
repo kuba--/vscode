@@ -1,2 +1,1 @@
-# vscode
-Visual Studio Code extensions/themes
+# Visual Studio Code extensions/themes

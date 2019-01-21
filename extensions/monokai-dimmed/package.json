@@ -1,0 +1,27 @@
+{
+	"name": "monokai-dimmed-ui",
+	"displayName": "Monokai dimmed UI",
+	"description": "VS Code's Monokai color theme with dimmed UI.",
+	"version": "0.0.1",
+	"publisher": "Kuba Podgórski",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:kuba--/vscode.git"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai dimmed UI",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			}
+		]
+	}
+}
