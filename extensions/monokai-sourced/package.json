@@ -1,7 +1,7 @@
 {
-	"name": "monokai-sourced",
-	"displayName": "Monokai source{d}",
-	"description": "VS Code's Monokai color theme with source{d} brand style.",
+	"name": "monokai-{d}",
+	"displayName": "Monokai {d}",
+	"description": "VS Code's Monokai color theme with {d} brand style.",
 	"version": "0.0.1",
 	"publisher": "Kuba Podgórski",
 	"license": "MIT",
@@ -18,12 +18,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai source{d} dark",
+				"label": "Monokai {d} dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark.json"
 			},
 			{
-				"label": "Monokai source{d} light",
+				"label": "Monokai {d} light",
 				"uiTheme": "vs",
 				"path": "./themes/light.json"
 			}
