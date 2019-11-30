@@ -2,10 +2,10 @@
 
 ### {d} dark
 
-![Screenshot](sourced-dark.png)
+![Screenshot](dark.png)
 
 ---
 
 ### {d} light
 
-![Screenshot](sourced-light.png)
+![Screenshot](light.png)
