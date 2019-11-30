@@ -1,11 +1,11 @@
-## Monokai color theme with source{d} brand style.
+## Monokai color theme with {d} brand style.
 
-### Source{d} dark
+### {d} dark
 
 ![Screenshot](sourced-dark.png)
 
 ---
 
-### Source{d} light
+### {d} light
 
 ![Screenshot](sourced-light.png)
